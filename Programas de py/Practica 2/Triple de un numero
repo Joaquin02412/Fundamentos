@@ -1,0 +1,5 @@
+#Ingre sar un numero por teclado
+numero=(input("Ingresar  un numero:"))
+#calcular el triple del nuemro
+triple=numero*3
+print("el triple del numero es::,triple)
